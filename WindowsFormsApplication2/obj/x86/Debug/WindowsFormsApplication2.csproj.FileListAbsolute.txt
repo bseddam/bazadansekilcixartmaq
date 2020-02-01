@@ -1,0 +1,41 @@
+C:\Documents and Settings\user\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\user\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\user\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\user\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\user\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\user\Рабочий стол\wekil cixart\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\user\Рабочий стол\wekil cixart\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\user\Рабочий стол\wekil cixart\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\user\Рабочий стол\wekil cixart\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\user\Рабочий стол\wekil cixart\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Рабочий стол\wekil cixart\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\user\Рабочий стол\wekil cixart\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Рабочий стол\wekil cixart\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Рабочий стол\Копия wekil cixart\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\user\Рабочий стол\Копия wekil cixart\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\user\Рабочий стол\Копия wekil cixart\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\user\Рабочий стол\Копия wekil cixart\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\user\Рабочий стол\Копия wekil cixart\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Рабочий стол\Копия wekil cixart\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\user\Рабочий стол\Копия wekil cixart\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Рабочий стол\Копия wekil cixart\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Рабочий стол\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\user\Рабочий стол\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\user\Рабочий стол\wekilin olcusunu redakte\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\user\Рабочий стол\wekilin olcusunu redakte\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\user\Рабочий стол\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Рабочий стол\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\user\Рабочий стол\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Рабочий стол\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\hp komputerdeki fayllar\c# desktop proyektim\wekilin olcusunu redakte\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
